@@ -13,12 +13,10 @@ h1 {
   color: white;
   font-size: 25px;
 }
-#Baba1{
-
-  color:green:
-  
+#Baba1 {
+  color: green;
 }
-h1:hover{
+h1:hover {
   color: brown;
   padding: 50px;
   border: 10px dashed blueviolet;
